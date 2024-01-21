@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="title_activity_maps" />
+</resources>
